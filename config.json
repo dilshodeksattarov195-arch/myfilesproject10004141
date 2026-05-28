@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedalculate",
+        "uuid": 27359587,
+        "checksum": "ferge8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
